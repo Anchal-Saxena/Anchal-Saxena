@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anchal-Saxena
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Sciece and machine learning 
-- 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science,Machine Learning and Artificial Intelligence 
+- 🌱 I’m currently learning Python, Tableau, R, MySQL, Azure, Apache, Sapark, Hadoop, Artificial intelligence and Deep learning
+- 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence
+- 📫 You can reach me on my email id:anchalsaxena033@gmail.com
 
 <!---
 Anchal-Saxena/Anchal-Saxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
